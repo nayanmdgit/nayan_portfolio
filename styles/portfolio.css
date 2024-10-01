@@ -1,0 +1,18 @@
+/* nav related styles*/
+
+nav {
+    display: flex;
+}
+
+nav > ul {
+    display: flex;
+    
+}
+nav li {
+    list-style: none;
+    
+    margin-right: 50px;
+}
+nav a {
+    text-decoration: none;
+}
